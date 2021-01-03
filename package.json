@@ -1,0 +1,19 @@
+{
+  "name": "npm-lab-rcdd_202010_leb_few",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaoufDannaoui1/npm-lab-rcdd_202010_leb_few.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaoufDannaoui1/npm-lab-rcdd_202010_leb_few/issues"
+  },
+  "homepage": "https://github.com/RaoufDannaoui1/npm-lab-rcdd_202010_leb_few#readme"
+}
