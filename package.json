@@ -1,0 +1,22 @@
+{
+  "name": "packge.json",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulrahmanGhalayini/npm-lab-rcdd_202010_leb_few.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdulrahmanGhalayini/npm-lab-rcdd_202010_leb_few/issues"
+  },
+  "homepage": "https://github.com/AbdulrahmanGhalayini/npm-lab-rcdd_202010_leb_few#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
